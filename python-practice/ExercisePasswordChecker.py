@@ -1,7 +1,7 @@
 # Exercise Password Checker
 import re
 
-username = input('Enter your username:\t')
+username = input('Enter ynour userame:\t')
 password1 = input('Enter you password:\t')
 
 secret_password = len(password1) * '*'

@@ -19,7 +19,7 @@ user = {
     'age': 20
 }
 
-print(user.get('age', 55))
+print(user.get('age'))
 
 user2 = dict(name='JohnJohn')
 print(user2)

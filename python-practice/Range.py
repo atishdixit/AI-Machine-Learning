@@ -33,3 +33,12 @@ print()
 
 for _ in range(2):
     print(list(range(10)))
+
+
+def sumNum():
+    sum = 0
+    for a in range(1, 10):
+        sum = sum+a
+    print(sum)
+
+sumNum()

@@ -21,4 +21,4 @@ def validate(name):
         raise InvalidNameError('Username can only contain alpha characters')
 
 
-validate('shdhhdh')
+validate('2232323')
